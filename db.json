@@ -1,0 +1,128 @@
+{
+    "homes": [
+        {
+            "error": null,
+            "data": {
+                "opening": {
+                    "header": "DARE TO DISCOVER WITH DJOY",
+                    "content": "<p>Keingintahuan adalah kunci menuju dunia yang penuh warna.</p><p>Cobalah sesuatu yang baru</p>",
+                    "footer": "Jelajahi dunia diluar batas kenyamananmu.",
+                    "bottom": "Cari tau tentang DJOY"
+                },
+                "tri_display": {
+                    "title": "INTRODUCE DJOY",
+                    "content": [
+                        {
+                            "title": "DJOY④ DISPOSIBLE VAPES",
+                            "description": "DJOY④ Disposable VAPE adalah",
+                            "sub_icon_1": "icon1",
+                            "sub_icon_2": "icon2",
+                            "sub_icon_3": "icon3",
+                            "sub_description_1": "Cari tau tentang DJOY",
+                            "sub_description_2": "Cari tau tentang DJOY",
+                            "sub_description_3": "Cari tau tentang DJOY",
+                            "btn_1": "Detail Tentang product",
+                            "btn_2": "Beli Sekarang",
+                            "notes": "notes"
+                        },
+                        {
+                            "title": "DJOY⑤ DEVICE KIT",
+                            "description": "DJOY⑤ DEVICE KIT adalah",
+                            "sub_icon_1": "icon1",
+                            "sub_icon_2": "icon2",
+                            "sub_icon_3": "icon3",
+                            "sub_description_1": "Cari tau tentang DJOY",
+                            "sub_description_2": "Cari tau tentang DJOY",
+                            "sub_description_3": "Cari tau tentang DJOY",
+                            "btn_1": "Detail Tentang product",
+                            "btn_2": "Beli Sekarang",
+                            "notes": "notes"
+                        },
+                        {
+                            "title": "DJOY⑤ FLAVOR PODS",
+                            "description": "DJOY⑤ FLAVOR PODS adalah",
+                            "sub_icon_1": "icon1",
+                            "sub_icon_2": "icon2",
+                            "sub_icon_3": "icon3",
+                            "sub_description_1": "Cari tau tentang DJOY",
+                            "sub_description_2": "Cari tau tentang DJOY",
+                            "sub_description_3": "Cari tau tentang DJOY",
+                            "btn_1": "Detail Tentang product",
+                            "btn_2": "Beli Sekarang",
+                            "notes": "notes"
+                        }
+                    ]
+                },
+                "segmented_display": {
+                    "title": "Mengapa Memilih Djoy",
+                    "segment": [
+                        {
+                            "icon": "icon",
+                            "text": "text"
+                        }
+                    ]
+                },
+                "product_category": null,
+                "product_comparison": null
+            }
+        }
+    ],
+    "products": [
+        {
+            "error": null,
+            "data": {
+                "content": [
+                    {
+                        "id": 1,
+                        "product_name": "Djoy Disposable vapes manggo thrill flavor",
+                        "description": "description",
+                        "nicotine": 3,
+                        "image": "https://images.com",
+                        "variant": "Mangga Cloud"
+                    },
+                    {
+                        "id": 2,
+                        "product_name": "Djoy Disposable vapes manggo thrill flavor",
+                        "description": "description",
+                        "nicotine": 3,
+                        "image": "https://images.com",
+                        "variant": "Mangga Cloud"
+                    },
+                    {
+                        "id": 3,
+                        "product_name": "Djoy Disposable vapes manggo thrill flavor",
+                        "description": "description",
+                        "nicotine": 3,
+                        "image": "https://images.com",
+                        "variant": "Mangga Cloud"
+                    }
+                ],
+                "pageable": {
+                    "pageNumber": 0,
+                    "pageSize": 10,
+                    "sort": {
+                        "empty": true,
+                        "unsorted": true,
+                        "sorted": false
+                    },
+                    "offset": 0,
+                    "paged": true,
+                    "unpaged": false
+                },
+                "last": true,
+                "totalPages": 1,
+                "totalElements": 1,
+                "size": 10,
+                "number": 0,
+                "sort": {
+                    "empty": true,
+                    "unsorted": true,
+                    "sorted": false
+                },
+                "first": true,
+                "numberOfElements": 1,
+                "empty": false
+            }
+        }
+    ]
+}
