@@ -4,7 +4,7 @@
 - [Home Endpoints](#home-endpoints)
 - [Product Endpoints](#product-endpoints)
 
-## User Endpoints
+## Home Endpoints
 
 ### 1. Get Home
 - **Method:** GET
